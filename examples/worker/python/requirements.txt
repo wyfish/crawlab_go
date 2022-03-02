@@ -1,5 +1,5 @@
 geohash2==1.1
-Scrapy==1.5.0
+Scrapy==1.8.2
 APScheduler==3.5.1
 fonttools==3.34.2
 elasticsearch==5.5.3
